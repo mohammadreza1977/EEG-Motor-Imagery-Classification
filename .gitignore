@@ -1,0 +1,13 @@
+# MATLAB temporary files
+*.asv
+
+# MATLAB data / generated files
+*.mat
+
+# Operating system
+Thumbs.db
+.DS_Store
+
+# MATLAB cache / generated files
+*.mex*
+*.pdb
